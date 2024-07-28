@@ -30,7 +30,29 @@ The data dictionary that describes the meaning of the columns present in the dat
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
+**Minor Impact**
 
+- Higher loan amount (above 15k)
+
+- Applicant’s address state (NV, SD, AK, ID, NE)
+
+- Higher debt to income ratio (above 15%)
+
+- Credit utilization rate (above 50%)
+
+**Major impact**
+
+- Loan purpose (small business, renewable energy, educational)
+
+- Loan Tenure ( 5 year loans tends to cause more defaults)
+
+- Public bankruptcy records (1 or 2)
+
+- Higher interest rate (above 20%)
+
+- Loan grade & sub-grade (E, F, G)
+
+- Higher DTI's affect the payment of Higher Loan Amounts
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
