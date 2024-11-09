@@ -30,6 +30,7 @@ The data dictionary that describes the meaning of the columns present in the dat
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
+
 **Minor Impact**
 
 - Higher loan amount (above 15k)
